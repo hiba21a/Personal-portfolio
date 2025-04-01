@@ -1,5 +1,5 @@
 import React from "react";
-import myImg from "../../assets/images/myImg3.png";
+import myImg from "../../assets/images/MyImg3.png";
 import squares from "../../assets/images/squares.svg";
 import gradiant from "../../assets/images/BlurGradient.webp";
 import circle from "../../assets/images/Circle.svg";
