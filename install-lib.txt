@@ -1,0 +1,11 @@
+npm i @radix-ui/react-tooltip
+
+
+ npm i framer-motion
+
+  npm install swiper
+
+
+   npm install prop-types
+
+
